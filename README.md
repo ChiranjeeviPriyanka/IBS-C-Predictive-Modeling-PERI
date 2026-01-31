@@ -2,7 +2,7 @@
 Predicting IBS-C Risk in Sedentary Professionals Using the Psychosocial-Environmental Risk Index (PERI).
 
 ## Project Overview
-This research introduces a novel computational framework to address the limitations of traditional occupational health models, which often analyze lifestyle risk factors in isolation. By engineering the Psychosocial-Environmental Risk Index (PERI), this study quantifies the cumulative "allostatic load" on the Gut–Brain Axis, integrating sedentary behavior, psychosocial stress, circadian stability, and dietary quality into a single synergistic predictor. Adopting a hybrid research design, the project validates machine learning models trained on archival real-world data against original primary survey response data from contemporary office-based professionals, ensuring both technical rigor and empirical relevance.
+This research introduces a novel computational framework to address the limitations of traditional occupational health models, which often analyze lifestyle risk factors in isolation. By engineering the Psychosocial-Environmental Risk Index (PERI), this study quantifies the cumulative "allostatic load" on the Gut–Brain Axis, integrating sedentary behavior, psychosocial stress, circadian stability, and dietary quality into a single synergistic predictor. Adopting a hybrid research design, the project validates machine learning models trained on archival real-world data against original primary survey response data from contemporary office-based professionals to predict the risk of Constipation-Dominant Irritable Bowel Syndrome (IBS-C), ensuring both technical rigor and empirical relevance.
 
 **Methodology:** Hybrid Research Design (Archival N=105 / Primary N=45).
 

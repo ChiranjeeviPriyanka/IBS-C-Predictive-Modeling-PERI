@@ -11,6 +11,7 @@ This research introduces a novel computational framework to address the limitati
 **Model Performance:** 86.67% Accuracy, 0.806 AUC-ROC, and 0.926 Prediction Confidence on primary validation.
 
 ## Repository Structure
+```
 ├── Data/
 │   ├── Sleep_health_and_lifestyle_dataset.csv   # Raw archival source
 │   ├── cleaned_archival_n105.csv                # Processed developmental training set
@@ -25,6 +26,7 @@ This research introduces a novel computational framework to address the limitati
 ├── Documentation/
 │   └── RESEARCH_QUESTIONNAIRE_Final.docx        # Validated survey instrument
 └── README.md
+```
 
 ## Implementation & Documentation
 The computational pipeline is implemented in the Google Colab notebooks archived in the Notebooks/ folder. The original research instrument (questionnaire) used to collect primary validation data is archived in the Documentation/ folder of this repository.

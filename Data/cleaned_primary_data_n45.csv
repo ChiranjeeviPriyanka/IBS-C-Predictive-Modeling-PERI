@@ -1,0 +1,46 @@
+Timestamp,Occupation,Age,Gender,Activity_Frequency,Daily_Steps,Sleep_Duration,Sleep_Quality_Raw,Stress_Control_Raw,Stress_Overwhelmed_Raw,Heart_Rate,BMI_Category,IBS_C_Risk_Raw,Quality_of_Sleep,Stress_Control,Stress_Overwhelmed,Stress_Level,IBS_C_Risk
+13/01/2026 13:50:24,Software Engineer,28,Female,1,2200,5.5,Fairly Bad (2),Fairly Often (3),Very Often (4),88,Obese,Yes,2,3,4,7,1
+13/01/2026 14:19:14,Engineer,23,Female,2,8000,6.0,Fairly Good (1),Almost Never (1),Almost Never (1),75,Normal,Yes,1,1,1,2,1
+13/01/2026 14:20:19,Accountant,42,Female,1,2420,5.5,Very Bad (3),Very Often (4),Very Often (4),90,Obese,Yes,3,4,4,8,1
+13/01/2026 14:36:43,Software Engineer,28,Female,5,600,10.0,Very Good (0),Very Often (4),Sometimes (2),96,Normal,No,0,4,2,6,0
+13/01/2026 14:40:23,Engineer,30,Prefer not to say,2,5000,6.0,Fairly Good (1),Sometimes (2),Sometimes (2),65,Normal,No,1,2,2,4,0
+13/01/2026 14:40:30,Software Engineer,31,Male,5,10000,5.0,Fairly Bad (2),Fairly Often (3),Sometimes (2),52,Normal,No,2,3,2,5,0
+13/01/2026 14:40:31,Software Engineer,30,Male,3,10000,7.0,Fairly Good (1),Sometimes (2),Sometimes (2),80,Normal,No,1,2,2,4,0
+13/01/2026 14:45:07,Engineer,46,Male,1,2500,5.5,Very Bad (3),Very Often (4),Very Often (4),88,Obese,Yes,3,4,4,8,1
+13/01/2026 14:48:23,Manager,37,Female,1,2120,5.0,Very Bad (3),Very Often (4),Very Often (4),91,Obese,Yes,3,4,4,8,1
+13/01/2026 14:53:28,Software Engineer,26,Female,4,3000,7.0,Fairly Good (1),Sometimes (2),Almost Never (1),112,Normal,No,1,2,1,3,0
+13/01/2026 15:03:59,Manager,46,Female,6,9500,7.5,Fairly Good (1),Fairly Often (3),Very Often (4),72,Normal,No,1,3,4,7,0
+13/01/2026 15:04:25,Engineer,40,Female,1,1567,5.0,Very Bad (3),Very Often (4),Very Often (4),88,Obese,Yes,3,4,4,8,1
+13/01/2026 15:17:00,Software Engineer,30,Male,4,900,7.0,Fairly Good (1),Sometimes (2),Sometimes (2),74,Normal,No,1,2,2,4,0
+13/01/2026 15:18:30,Software Engineer,26,Female,4,6000,7.0,Very Good (0),Sometimes (2),Sometimes (2),80,Normal,Yes,0,2,2,4,1
+13/01/2026 15:43:27,Software Engineer,29,Female,3,3500,8.0,Fairly Good (1),Sometimes (2),Sometimes (2),85,Overweight,No,1,2,2,4,0
+13/01/2026 15:45:45,Software Engineer,30,Male,7,12000,7.0,Fairly Good (1),Sometimes (2),Sometimes (2),90,Normal,Yes,1,2,2,4,1
+13/01/2026 15:47:09,Accountant,39,Male,5,9500,7.5,Fairly Good (1),Fairly Often (3),Very Often (4),72,Normal,No,1,3,4,7,0
+13/01/2026 15:58:57,Manager,42,Male,7,6000,5.0,Fairly Good (1),Sometimes (2),Sometimes (2),69,Normal,Yes,1,2,2,4,1
+13/01/2026 16:45:28,Engineer,34,Female,1,1100,5.5,Very Bad (3),Very Often (4),Very Often (4),95,Overweight,Yes,3,4,4,8,1
+13/01/2026 16:55:30,Accountant,22,Female,6,9650,7.5,Fairly Good (1),Fairly Often (3),Very Often (4),75,Normal,No,1,3,4,7,0
+13/01/2026 19:12:19,Software Engineer,22,Female,3,3500,8.0,Fairly Good (1),Fairly Often (3),Fairly Often (3),70,Normal,No,1,3,3,6,0
+14/01/2026 00:48:35,Software Engineer,32,Male,3,5000,7.5,Fairly Good (1),Sometimes (2),Sometimes (2),56,Normal,No,1,2,2,4,0
+14/01/2026 09:23:43,Software Engineer,29,Female,5,6000,6.0,Fairly Good (1),Fairly Often (3),Fairly Often (3),60,Overweight,No,1,3,3,6,0
+14/01/2026 10:55:16,Manager,29,Female,5,5000,7.0,Fairly Bad (2),Sometimes (2),Fairly Often (3),60,Normal,Yes,2,2,3,5,1
+14/01/2026 11:25:25,Accountant,36,Male,6,10000,7.0,Fairly Good (1),Fairly Often (3),Very Often (4),69,Normal,No,1,3,4,7,0
+14/01/2026 11:26:41,Software Engineer,28,Male,6,11000,6.0,Fairly Bad (2),Sometimes (2),Fairly Often (3),69,Normal,Yes,2,2,3,5,1
+14/01/2026 11:33:35,Manager,46,Male,5,10500,8.0,Fairly Good (1),Very Often (4),Very Often (4),72,Normal,No,1,4,4,8,0
+14/01/2026 11:37:26,Manager,45,Female,2,1450,7.0,Fairly Good (1),Very Often (4),Very Often (4),70,Normal,No,1,4,4,8,0
+14/01/2026 11:41:31,Accountant,25,Female,1,1400,4.5,Very Bad (3),Very Often (4),Very Often (4),95,Obese,Yes,3,4,4,8,1
+14/01/2026 11:43:22,Engineer,26,Male,1,1550,5.0,Very Bad (3),Very Often (4),Very Often (4),93,Obese,Yes,3,4,4,8,1
+14/01/2026 11:49:28,Engineer,27,Male,1,1230,5.0,Very Bad (3),Very Often (4),Very Often (4),95,Obese,Yes,3,4,4,8,1
+14/01/2026 11:51:31,Accountant,22,Male,6,1269,9.0,Very Good (0),Never (0),Almost Never (1),65,Normal,No,0,0,1,1,0
+14/01/2026 11:53:04,Manager,51,Male,6,10380,8.0,Very Good (0),Almost Never (1),Never (0),66,Normal,No,0,1,0,1,0
+14/01/2026 12:07:40,Software Engineer,25,Female,5,3000,7.0,Fairly Good (1),Almost Never (1),Almost Never (1),72,Normal,No,1,1,1,2,0
+14/01/2026 12:47:48,Manager,39,Prefer not to say,7,12500,8.0,Fairly Good (1),Fairly Often (3),Very Often (4),72,Normal,No,1,3,4,7,0
+14/01/2026 12:49:52,Accountant,45,Male,7,10000,7.0,Fairly Good (1),Very Often (4),Very Often (4),70,Normal,No,1,4,4,8,0
+14/01/2026 12:52:58,Software Engineer,48,Prefer not to say,6,11500,7.5,Fairly Good (1),Fairly Often (3),Very Often (4),71,Normal,No,1,3,4,7,0
+14/01/2026 12:54:09,Manager,43,Prefer not to say,7,12000,7.9,Fairly Good (1),Fairly Often (3),Very Often (4),69,Normal,No,1,3,4,7,0
+14/01/2026 12:55:33,Software Engineer,31,Female,6,12350,8.0,Fairly Good (1),Fairly Often (3),Very Often (4),71,Normal,No,1,3,4,7,0
+14/01/2026 13:02:13,Software Engineer,33,Male,7,11450,7.5,Fairly Good (1),Fairly Often (3),Very Often (4),70,Normal,No,1,3,4,7,0
+14/01/2026 13:03:55,Accountant,29,Male,6,12100,7.2,Fairly Good (1),Fairly Often (3),Very Often (4),72,Normal,No,1,3,4,7,0
+14/01/2026 13:04:53,Manager,41,Female,6,10800,8.0,Very Good (0),Sometimes (2),Very Often (4),68,Normal,No,0,2,4,6,0
+14/01/2026 13:05:28,Engineer,38,Female,7,11200,7.8,Very Good (0),Fairly Often (3),Very Often (4),69,Normal,No,0,3,4,7,0
+16/01/2026 23:47:45,Manager,46,Male,1,900,5.5,Fairly Bad (2),Very Often (4),Very Often (4),99,Obese,Yes,2,4,4,8,1
+17/01/2026 00:09:54,Software Engineer,37,Male,6,11200,8.0,Fairly Good (1),Fairly Often (3),Very Often (4),76,Normal,No,1,3,4,7,0
